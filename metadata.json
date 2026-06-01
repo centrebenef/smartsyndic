@@ -1,0 +1,6 @@
+{
+  "name": "Gestion de Copropriété",
+  "description": "Application SaaS moderne de gestion de syndic et copropriété d'immeuble",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
